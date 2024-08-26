@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Anti ZBPU",
+  "version": "0.1",
+
+  "description": "Enlève la pop up qui bloque l'accès à Zone Bourse quand tu as un compte gratuit.",
+
+  "icons": {
+    "48": "icon-48.png",
+    "96": "icon-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.zonebourse.com/*"],
+      "js": ["script.js"]
+    }
+  ]
+}
