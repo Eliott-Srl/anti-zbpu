@@ -6,7 +6,9 @@ After a certain number of actions, the site blocks us with a pop-up to pay, the 
 <b>Anti ZBPU</b> stands for <b>Anti Z</b>one <b>B</b>ourse <b>P</b>op <b>U</b>p.
 
 ## Usage
-<b>Important : Only available on firefox</b> (for now)
+<b>Important : Made for Firefox</b>.
+If you want the Chrome (Opera, Arc, Brave, Edge, ...) version you just have to change the branch to chromium.
+
 
 Go to [addons.mozilla.org](https://addons.mozilla.org/fr/firefox/addon/anti-zbpu/) and add it to your browser.
 <br>
