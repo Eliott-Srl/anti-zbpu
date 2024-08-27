@@ -1,5 +1,5 @@
-browser.browserAction.onClicked.addListener((tab) => {
-    browser.tabs.create({
+chrome.action.onClicked.addListener((tab) => {
+    chrome.tabs.create({
         url: "https://github.com/Eliott-Srl/anti-zbpu",
     });
 });

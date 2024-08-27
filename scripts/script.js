@@ -1,5 +1,8 @@
 document.body.style.overflow = "auto"
-document.getElementsByClassName("modal_backdrop")[0].style.display = "none"
+
+if (a = document.getElementsByClassName("modal_backdrop")[0]) {
+    a.style.display = "none";
+}
 
 var tab = document.getElementsByTagName('div');
 for(var i = 0;i < tab.length;i++)   
