@@ -7,7 +7,7 @@ After a certain number of actions, the site blocks us with a pop-up to pay, the 
 
 ## Usage
 <b>Important : Made for Chrome and all its derivatives </b>(Brave, Opera, Arc, Edge, ...).
-If you want the Firefox version you just have to change the branch to firefox.
+If you want the Firefox version you just have to [change the branch to firefox](https://github.com/Eliott-Srl/anti-zbpu/tree/firefox).
 
 Go to [chromewebstore.google.com]() and add it to your browser.
 <br>
