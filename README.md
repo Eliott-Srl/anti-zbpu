@@ -7,7 +7,7 @@ After a certain number of actions, the site blocks us with a pop-up to pay, the 
 
 ## Usage
 <b>Important : Made for Firefox</b>.
-If you want the Chrome (Opera, Arc, Brave, Edge, ...) version you just have to change the branch to chromium.
+If you want the Chrome (Opera, Arc, Brave, Edge, ...) version you just have to [change the branch to chromium](https://github.com/Eliott-Srl/anti-zbpu/tree/chromium).
 
 
 Go to [addons.mozilla.org](https://addons.mozilla.org/fr/firefox/addon/anti-zbpu/) and add it to your browser.
