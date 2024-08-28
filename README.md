@@ -9,6 +9,6 @@ After a certain number of actions, the site blocks us with a pop-up to pay, the 
 <b>Important : Made for Chrome and all its derivatives </b>(Brave, Opera, Arc, Edge, ...).
 If you want the Firefox version you just have to [change the branch to firefox](https://github.com/Eliott-Srl/anti-zbpu/tree/firefox).
 
-Go to [chromewebstore.google.com]() and add it to your browser.
+Go to [chromewebstore.google.com](https://chromewebstore.google.com/detail/anti-zbpu/oacgcpbmebbjbpapoojnkkepdnlalghd) and add it to your browser.
 <br>
 You can also add it by yourself, by downloading it in the releases and following [this tuto](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
